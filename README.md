@@ -52,4 +52,4 @@ React  Lv.1  를 react-router-dom, styled-components, redux를 사용해서 My T
     
     
 ### 구동 화면   
-  
+  <img width="80%" src="https://user-images.githubusercontent.com/124552434/234486872-3415d6d1-61d0-4a95-b869-e384198ba26d.gif"/>
