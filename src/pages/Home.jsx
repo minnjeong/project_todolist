@@ -3,14 +3,17 @@ import AddTodo from "../components/AddTodo";
 import Header from "../components/Header";
 import TodoItem from "../components/TodoItem";
 import TodoList from "../components/TodoList";
+import Layout from '../components/Layout';
 
 
 function Home() {
   return (
     <div>
-      <Header />
-      <AddTodo />
-      <TodoList/>
+      <Layout>
+        <Header />
+          <AddTodo />
+        <TodoList/>
+      </Layout>
     </div>
   )
 }
